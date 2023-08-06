@@ -1,3 +1,4 @@
+![Chrome Network Listener](<images/basic-extension.png>)
 # simple-vscode-extension README
 
 This is the README for your extension "simple-vscode-extension". After writing up a brief description, we recommend including the following sections.
